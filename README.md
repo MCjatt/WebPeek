@@ -1,5 +1,6 @@
 # WebPeek Chrome Extension
-![Screenshot 2024-02-28 010105](https://github.com/user-attachments/assets/60225475-c66e-4f97-a850-e06ff1704662)
+![Screenshot 2024-02-28 005800](https://github.com/user-attachments/assets/03463b1c-dabd-49f4-870f-72654708a712)
+
 
 WebPeek is a Chrome extension designed to simplify and enhance your browsing experience by providing tailored summaries of web pages. Using the Cohere Summarisation API, WebPeek generates concise summaries, saving users time and effort. With additional customisation options, WebPeek ensures the summaries meet your specific needs.
 
@@ -19,6 +20,9 @@ WebPeek is a Chrome extension designed to simplify and enhance your browsing exp
 ---
 
 ## Features
+
+
+![Screenshot 2024-02-28 010105](https://github.com/user-attachments/assets/60225475-c66e-4f97-a850-e06ff1704662)
 
 - **Web Page Summaries**  
   Generate concise summaries of web pages directly in your browser.
